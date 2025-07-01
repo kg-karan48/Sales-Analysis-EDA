@@ -14,5 +14,5 @@ Key Concepts & Skills Used:
 
 #Repository Structure
 
-Datasets     =
+Datasets     = https://github.com/kg-karan48/Sales-Analysis-EDA/blob/main/Sales_Analysis%20Dataset.csv </br>
 Project Link = 
